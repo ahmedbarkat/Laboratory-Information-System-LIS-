@@ -35,9 +35,7 @@ Laboratories relied on fragmented systems for test management, resulting in:
 - **Frontend:** Vue.js + Pinia  
 - **Deployment / CI-CD:** GitHub Actions, Docker  
 
-> ![Architecture Diagram](diagrams/architecture.png)  
-> *Placeholder for system architecture diagram*
-
+ 
 ---
 
 ## Key Achievements
