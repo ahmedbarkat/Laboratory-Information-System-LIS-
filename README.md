@@ -56,9 +56,9 @@ Laboratories relied on fragmented systems for test management, resulting in:
 
 ## Screenshots / Demo
 > ![Dashboard](Screenshots/dashboard.png)  
-> *Placeholder for web interface screenshot*
-> ![Dashboard2](screenshots/dashboard2.png)  
-> *Placeholder for web interface screenshot*
+ 
+> ![Dashboard2](Screenshots/dashboard2.png)  
+ 
 ---
 
 ## Note on Source Code
