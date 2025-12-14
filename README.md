@@ -69,5 +69,5 @@ Architecture, workflows, and system decisions can be discussed with interested p
 ---
 
 ## Contact
-📧 ahmedbarakatsamra@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/ahmed-barakat-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-barakat-8b7b9922/)  
+🔗 [GitHub](https://github.com/ahmedbarkat)
